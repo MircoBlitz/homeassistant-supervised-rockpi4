@@ -1,4 +1,4 @@
-# homeassistant-rockpi--supervised-script
+# homeassistant-supervised-rockpi4
 
 just a script that installs homeassistant on a rockpi 4a+ (in my case) running debian bookworm or bullseye
 
