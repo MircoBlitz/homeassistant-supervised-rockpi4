@@ -17,5 +17,5 @@ Install:
 * checkout this repo
 * run (bash ./homeassistant-rockpi-supervised.sh)
 * wait untill all docker spun up
-* goto http://<rockPiIP>:8123
+* goto http://[rockPiIP]:8123
 * have fun
