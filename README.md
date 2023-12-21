@@ -12,7 +12,7 @@ Install:
 * short pins 23 and 25
 * boot from sd
 * with nand-sata-install move the system to nvme (prefered) or emmc
-* reboot without sd
+* reboot without sd (I belive with the first boot, pin 23 and 25 still need to be shorted)
 * install git (apt update && apt install -y git
 * checkout this repo
 * run (bash ./homeassistant-rockpi-supervised.sh)
